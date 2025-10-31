@@ -1,0 +1,2 @@
+# QGT
+Quantum Game Theory
